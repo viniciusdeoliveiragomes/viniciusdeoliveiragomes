@@ -14,6 +14,8 @@
   <img src="https://www.gitskins.com/api/section/projects?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes projects visual" />
 </p>
 
+- [viniciusdeoliveiragomes](https://github.com/viniciusdeoliveiragomes/viniciusdeoliveiragomes) · ★ 0 — My GitHub profile
+
 </details>
 
 <details>
@@ -30,7 +32,7 @@
 <summary><b>📊 By the numbers</b></summary>
 <br/>
 
-<b>0</b> public repositories, <b>0</b> stars, <b>6</b> contributions in the last year, a longest streak of <b>1</b> days and <b>1</b> followers.
+<b>1</b> public repositories, <b>0</b> stars, <b>10</b> contributions in the last year, a longest streak of <b>1</b> days and <b>1</b> followers.
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes stats visual" />
