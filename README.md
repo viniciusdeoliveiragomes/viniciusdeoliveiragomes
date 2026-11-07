@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="Apresentação visual de viniciusdeoliveiragomes" />
 </p>
 
 <p align="center">
-  **Vinicius de Oliveira** · Desenvolvedor focado em produto<br/>
-  <sub>Construindo em público no GitHub.</sub>
+  <b>Vinicius de Oliveira</b> · Desenvolvedor com foco em produtos
+  <br/>
+  <sub>Desenvolvendo e compartilhando projetos no GitHub.</sub>
 </p>
 
 <p align="center">
@@ -12,47 +13,50 @@
 </p>
 
 <details open>
-  <summary>**📌 Principais projetos**</summary>
+  <summary><b>📌 Principais projetos</b></summary>
   <br/>
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/projects?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes projects visual" />
+    <img src="https://www.gitskins.com/api/section/projects?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="Projetos de viniciusdeoliveiragomes" />
   </p>
-  - [viniciusdeoliveiragomes](https://github.com/viniciusdeoliveiragomes/viniciusdeoliveiragomes) · ★ 0 — Meu perfil do GitHub
+
+  - [viniciusdeoliveiragomes](https://github.com/viniciusdeoliveiragomes/viniciusdeoliveiragomes) · ★ 0 — Meu perfil no GitHub
 </details>
 
 <details>
-  <summary>**🧰 Tecnologias (Stack)**</summary>
+  <summary><b>🧰 Tecnologias e ferramentas</b></summary>
   <br/>
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/stack?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes stack visual" />
-  </p>
-</details>
-
-<details>
-  <summary>**📊 Estatísticas em números**</summary>
-  <br/>
-  **1** repositório público, **0** estrelas, **10** contribuições no último ano, uma sequência máxima de **1** dia e **1** seguidor.
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/stats?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes stats visual" />
+    <img src="https://www.gitskins.com/api/section/stack?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="Tecnologias e ferramentas utilizadas por viniciusdeoliveiragomes" />
   </p>
 </details>
 
 <details>
-  <summary>**🟩 Atividade**</summary>
+  <summary><b>📊 Números e estatísticas</b></summary>
   <br/>
+
+  <b>1</b> repositório público, <b>0</b> estrelas, <b>10</b> contribuições no último ano, maior sequência de <b>1</b> dia e <b>1</b> seguidor.
+
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/heatmap?username=viniciusdeoliveiragomes&theme=neon" alt="viniciusdeoliveiragomes contribution activity" />
+    <img src="https://www.gitskins.com/api/section/stats?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="Estatísticas de viniciusdeoliveiragomes" />
   </p>
 </details>
 
 <details>
-  <summary>**👋 Diga olá**</summary>
+  <summary><b>🟩 Histórico de atividades</b></summary>
   <br/>
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/social?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="viniciusdeoliveiragomes social visual" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=viniciusdeoliveiragomes&theme=neon" alt="Histórico de contribuições de viniciusdeoliveiragomes" />
+  </p>
+</details>
+
+<details>
+  <summary><b>👋 Entre em contato</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/social?username=viniciusdeoliveiragomes&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328875002%3Fv%3D4" alt="Redes sociais de viniciusdeoliveiragomes" />
   </p>
 </details>
 
 <p align="center">
-  <sub>Vinicius de Oliveira · Central completa gerada com <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+  <sub>Vinicius de Oliveira · Página de apresentação gerada com <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
