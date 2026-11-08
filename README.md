@@ -3,7 +3,22 @@
 </p>
 
 <p align="center">
-  <b>Vinicius de Oliveira</b> · Desenvolvedor com foco em produtos
+  <b>Vinicius de Oliveira</b> ·I’m a Software Engineering student passionate about technology, programming, and problem-solving.
+
+Currently, I’m focused on improving my skills in software development, exploring new technologies, and building projects to strengthen my knowledge.
+
+Technologies I’m learning:
+
+* Python
+* C
+* SQL & Database Modeling
+* HTML, CSS & JavaScript
+* Front-end Development
+* Automation
+
+I’m always looking to learn, grow, and turn ideas into practical solutions.
+
+My goal: Become a Software Engineer and build a career in technology, constantly challenging myself to improve.
   <br/>
   <sub>Desenvolvendo e compartilhando projetos no GitHub.</sub>
 </p>
